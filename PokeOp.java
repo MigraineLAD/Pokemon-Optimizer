@@ -207,6 +207,7 @@ public class PokeOp {
         // you can also specify how many EV's you have left to distribute in AEV, Have fun!
         //compile with javac PokeOp.java
         //then run with java PokeOp.java
+        //This will print out all 3 stats one on each line in terminal
         
         String pkm = "Applin";
         int AEV = 252 ;
